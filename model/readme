@@ -1,0 +1,6 @@
+parser.add_argument('--load_model', default=True, help='Testing if True or training.')
+
+The links of the other models available are given as follows:
+
+
+Please unzip all zip files. Thank you.
