@@ -23,4 +23,4 @@ scikit-learn>=1.0.1
 
 scipy>=1.7.3
 
-If you have any questions or suggestions, please feel free to reach out to us at any time. 
+If you have any questions or suggestions, please feel free to reach out to us at any time!
