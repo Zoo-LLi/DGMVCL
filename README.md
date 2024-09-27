@@ -1,4 +1,4 @@
-# GCL-MVC
+# DGMVCL
 
 This project is about Grassmannian Contrastive Learning-based Multi-view Subspace Clustering and aims to address the issues related to it. It has been enhanced and improved upon the foundation of CVCL to enhance its performance and functionality.
 
